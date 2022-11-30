@@ -1,0 +1,5 @@
+- 🙋🏻‍♂️ Hi, I’m Jihun Seong
+- 💻 I’m interested in Data Engineering
+- 📖 I’m currently learning Kafka, AWS
+- 📈 I’m looking to collaborate on prediction of Stock price by Google news
+- 📧 How to reach me ... jihunsung@naver.com
